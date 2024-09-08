@@ -4,7 +4,7 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZxYWJtNmgxYTEyZHZvZTR3Z3VpdG81aTRmZnY3dnoxMGYydWZtaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="480" height="480" >  
  
 ### Hi there 👋 I'm Divya Shukla!
-##### from 🗺️ INDIA
+### from INDIA
 
 I’m passionate about building innovative software solutions that solve real-world problems. Whether it’s developing efficient code, designing intuitive user interfaces, or creating scalable applications, I thrive on tackling complex challenges and delivering impactful projects.
 
